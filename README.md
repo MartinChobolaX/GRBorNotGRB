@@ -29,7 +29,7 @@ TO DO TOMORROW
 - continue on LSTM with lat,lon variables 🗸
 
 -----------------------------------------------
-4.4. (3/??)
+4.3. (3/??)
 - predicting lat lon didn't go well (lat was better then lon)
 - found index of solar flare (predicted flare, not bkg), aka I am doing something wrong
 - tried three features (lon,lat,cps)
@@ -39,5 +39,16 @@ TO DO TOMORROW
   bought the right ones, will see on Monday
   
 TO DO TOMMOROW
+- find more known GRB x
+- tuning the LSTM model x
+
+
+-----------------------------------------------
+5.3. (4/??)
+- fixed PC
+
+TO DO TOMMOROW
+- set up Linux for conda env and get started
+- set up dest at faculty (ask for a PC)
 - find more known GRB
 - tuning the LSTM model
