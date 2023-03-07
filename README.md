@@ -35,7 +35,7 @@ TO DO TOMORROW
 - tried three features (lon,lat,cps)
 - added few sentences in overleaf on satelites
 - colab had run out of memory few times on not so complicated model (this is bad)
-- new components didn't fix broken PC ( I AM A BIG DUMMY DUM!)
+- new components didn't fix broken PC (I AM A BIG DUMMY DUM!)
   bought the right ones, will see on Monday
   
 TO DO TOMMOROW
@@ -48,7 +48,18 @@ TO DO TOMMOROW
 - fixed PC
 
 TO DO TOMMOROW
-- set up Linux for conda env and get started
-- set up dest at faculty (ask for a PC)
-- find more known GRB
+- set up Linux for conda env and get started 🗸
+- set up dest at faculty (ask for a PC) 🗸
+- find more known GRB x
+- tuning the LSTM model x
+
+-----------------------------------------------
+6.3. (5/??)
+- set up PC
+
+TO DO TOMMOROW
+- find more known GRB 
 - tuning the LSTM model
+
+-----------------------------------------------
+7.3. (6/??)
