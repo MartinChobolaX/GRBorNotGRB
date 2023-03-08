@@ -63,6 +63,6 @@ TO DO TOMMOROW
 
 -----------------------------------------------
 7.3. (6/75)
-- desk and pc prepared (thursday - setting up)
-- LSTM
+- desk and pc prepared
+- LSTM //
 (lat,log,rate) -> (rate)
