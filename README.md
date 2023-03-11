@@ -66,3 +66,26 @@ TO DO TOMMOROW
 - desk and pc prepared
 - LSTM //
 (lat,log,rate) -> (rate)
+
+-----------------------------------------------
+8.3. (7/75)
+- LSTM - WINDOW_SIZE = (5,20,50,100,200)
+
+-----------------------------------------------
+9.3. (8/75)
+Meeting AKA TO DO TOMMOROW 
+- try d_dt
+- add chapters (neuron, activation func, types of NN and how do they work, loss func, ADAM,...)
+- find references, images and usage of NN in astro
+- somehow sort data and find the GRB + check for info gaps (when it didnt work)
+
+-----------------------------------------------
+10.3. (9/75)
+- d_dt doesn't work so well
+- prepared PC on faculty - Linux is ready - on Monday - download and sort data
+
+-----------------------------------------------
+11.3. (10/75)
+- d_dt still doesn't work so well - changed WINDOW_SIZE, complexity and added log, lat - nuffin' -  (x-x_true)/x_true
+- cumsum of d_dt doesn't give original lc
+- HUGE addition on ML on overleaf
