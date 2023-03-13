@@ -96,4 +96,6 @@ Meeting AKA TO DO TOMMOROW
 
 -----------------------------------------------
 13.3. (12/75)
-- 
+- working system in faculty
+- worked on data sorting and how to properly work with them (stored them in one (pacquet) file)
+- large gaps - not good for sequential work
