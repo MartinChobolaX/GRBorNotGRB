@@ -89,3 +89,11 @@ Meeting AKA TO DO TOMMOROW
 - d_dt still doesn't work so well - changed WINDOW_SIZE, complexity and added log, lat - nuffin' -  (x-x_true)/x_true
 - cumsum of d_dt doesn't give original lc
 - HUGE addition on ML on overleaf
+
+-----------------------------------------------
+12.3. (11/75)
+- more addition on ML
+
+-----------------------------------------------
+13.3. (12/75)
+- 
