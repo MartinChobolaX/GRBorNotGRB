@@ -99,3 +99,8 @@ Meeting AKA TO DO TOMMOROW
 - working system in faculty
 - worked on data sorting and how to properly work with them (stored them in one (pacquet) file)
 - large gaps - not good for sequential work
+
+-----------------------------------------------
+14.3. (13/75)
+- SICK DAY
+- add few paragraphs on x-ray satellites
