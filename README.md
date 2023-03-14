@@ -103,4 +103,4 @@ Meeting AKA TO DO TOMMOROW
 -----------------------------------------------
 14.3. (13/75)
 - SICK DAY
-- add few paragraphs on x-ray satellites
+- added few paragraphs on x-ray satellites
