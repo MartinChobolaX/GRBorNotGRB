@@ -104,3 +104,13 @@ Meeting AKA TO DO TOMMOROW
 14.3. (13/75)
 - SICK DAY
 - added few paragraphs on x-ray satellites
+
+-----------------------------------------------
+15.3. (14/75)
+- gain acces to Cthulhu
+- added few paragraphs on ML structure
+- figured out how to give to LSTM window_size data without time gaps in them
+- sorted few GRBs
+
+TO DO TOMORROW
+- try on new model the few GRBs
