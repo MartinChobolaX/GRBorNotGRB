@@ -107,10 +107,19 @@ Meeting AKA TO DO TOMMOROW
 
 -----------------------------------------------
 15.3. (14/75)
-- gain acces to Cthulhu
+- gained access to Cthulhu
 - added few paragraphs on ML structure
 - figured out how to give to LSTM window_size data without time gaps in them
 - sorted few GRBs
 
 TO DO TOMORROW
 - try on new model the few GRBs
+
+-----------------------------------------------
+16.3. (15/75)
+- set up workstation on Cthulhu
+- figured out how to have individual GRB in dict
+
+TO DO TOMORROW
+- train models with various number of variables and window_size, then test them on GRBs
+  just to predict bkg, subtract it and ... GRB found????
