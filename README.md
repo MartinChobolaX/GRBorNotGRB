@@ -123,3 +123,22 @@ TO DO TOMORROW
 TO DO TOMORROW
 - train models with various number of variables and window_size, then test them on GRBs
   just to predict bkg, subtract it and ... GRB found????
+ 
+
+-----------------------------------------------
+17.3. (16/75)
+
+Notes from IRL meeting:
+- throw out time from input
+- comapere cts, dcts (delta), log(cts) and log(dcts)
+- plot MSE vs window size
+- plot MSE vs n+? how much time predicted, MSE average
+- different size of model
+- give significants to points around poles and SAA
+- figure out transformation on lon and lat around poles
+
+-----------------------------------------------
+18.3. (17/75)
+
+-----------------------------------------------
+19.3. (18/75)
