@@ -146,3 +146,7 @@ Notes from IRL meeting:
 -----------------------------------------------
 20.3. (19/75)
 - var4
+
+-----------------------------------------------
+21.3. (20/75)
+- located GRB and tried trained model with different window sizes
