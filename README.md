@@ -150,3 +150,14 @@ Notes from IRL meeting:
 -----------------------------------------------
 21.3. (20/75)
 - located GRB and tried trained model with different window sizes
+
+-----------------------------------------------
+31.3. (30/75)
+- split data to all data without burst and only bursts
+- code that preditcs further with predicted data
+
+TO DO
+- new architecture (more complicated and diff window size) 
+- sin and cos lat-log
+- scatter plot of all data
+- metrics of success
